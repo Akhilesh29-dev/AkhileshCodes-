@@ -1,3 +1,3 @@
 # AkhileshCodes-
-Testing out repository creation.
-author - Akhilesh
+Testing out repository creation
+Author - Akhilesh
